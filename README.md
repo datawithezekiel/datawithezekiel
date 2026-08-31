@@ -1,8 +1,8 @@
 # Hi, I'm Ezekiel Ebuetse 👋
 
-**Senior Data Analyst | Data Scientist | Power BI • SQL • Python | 10+ Years Experience**
+**Data Analyst | Power BI • SQL • Python | 20+ Years IT & Engineering Leadership**
 
-I transform complex data into actionable business insights through interactive dashboards and predictive analytics.
+I transform complex data into actionable business insights through interactive dashboards and predictive analytics, and I'm currently completing the Microsoft PL-300 (Power BI Data Analyst) certification.
 
 ---
 
@@ -40,8 +40,7 @@ I transform complex data into actionable business insights through interactive d
 
 ✅ **25% improvement** in forecast accuracy using predictive models
 
-✅ **10+ years** of experience across Oil & Gas, Manufacturing, and Retail
-
+✅ **20+ years** in IT and engineering leadership, with hands-on, focused delivery experience in data analytics and Power BI
 ---
 
 ### 🎓 Certifications
@@ -50,6 +49,7 @@ I transform complex data into actionable business insights through interactive d
 - **CompTIA Security+**
 - **CompTIA Network+**
 - **Google Analytics**
+- **Microsoft PL-300: Power BI Data Analyst** (in progress)
 
 ---
 
@@ -60,6 +60,6 @@ I transform complex data into actionable business insights through interactive d
 
 📧 **Email:** [ezekiel.ebuetse@gmail.com](mailto:ezekiel.ebuetse@gmail.com)
 
-**💼 Currently open to:** Senior Data Analyst · Business Intelligence Analyst · BI Developer
+**💼 Currently open to:** Data Analyst · Business Intelligence Analyst · BI Developer
 
 📍 UK | Remote | Hybrid
