@@ -2,7 +2,7 @@
 
 **Data Analyst | Power BI • SQL • Python | 20+ Years IT & Engineering Leadership**
 
-I transform complex data into actionable business insights through interactive dashboards and predictive analytics, and I'm currently completing the Microsoft PL-300 (Power BI Data Analyst) certification.
+I transform complex data into actionable business insights through interactive dashboards and predictive analytics, and I hold the Microsoft PL-300 (Power BI Data Analyst) certification.
 
 ---
 
@@ -49,7 +49,7 @@ I transform complex data into actionable business insights through interactive d
 - **CompTIA Security+**
 - **CompTIA Network+**
 - **Google Analytics**
-- **Microsoft PL-300: Power BI Data Analyst** (in progress)
+- **Microsoft PL-300: Power BI Data Analyst**
 
 ---
 
